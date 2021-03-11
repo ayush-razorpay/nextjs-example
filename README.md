@@ -1,4 +1,4 @@
-# nextjs-exampl
+# nextjs-example
 
 
 NextJs works with Standerd checkout integration.
